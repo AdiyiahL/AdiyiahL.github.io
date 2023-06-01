@@ -30,7 +30,9 @@ body{
     font-size: 35px;
     font-family: Algerian;
 }
-
+.hand-cursor:hover {
+      cursor: pointer;
+}
 a{
     margin: 15px;
     color: #141831;
